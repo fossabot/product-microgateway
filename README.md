@@ -1,5 +1,6 @@
 # WSO2 API Microgateway
 [![Build Status](https://wso2.org/jenkins/job/products/job/product-microgateway/badge/icon)](https://wso2.org/jenkins/view/All%20Builds/job/products/job/product-microgateway)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmaheshika%2Fproduct-microgateway.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmaheshika%2Fproduct-microgateway?ref=badge_shield)
 
 The WSO2 API Microgateway is a lightweight, gateway distribution (WSO2 API Microgateway) which can be used with single or multiple APIs.
 
@@ -634,3 +635,7 @@ pizza-api/
 ```
 
 And then this project can be build and run in the same manner.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmaheshika%2Fproduct-microgateway.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmaheshika%2Fproduct-microgateway?ref=badge_large)
